@@ -8,6 +8,7 @@ authors = ["srv-gabriel <gas@icomp.ufam.edu.br>"]
 python = "^3.8"
 numpy = "^1.23.0"
 pandas = "^1.4.3"
+scikit-learn = "^1.1.1"
 
 [tool.poetry.dev-dependencies]
 black = "^22.6.0"
